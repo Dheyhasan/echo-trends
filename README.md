@@ -42,9 +42,4 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 
----
-
-You can paste this directly inside your `README.md` file at the root of the project. Let me know if you want to add screenshots, badges, or credits.
-
-
 ```
